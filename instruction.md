@@ -45,6 +45,3 @@
 * git remote add origin ... и ваша ссылка на github
 * git push -u orgin master 
 Все ваш файл добавлен на github
-
-## Здесь я приложу скрин конфликта по другому не понял как сделать
-![Вот](conflict.jpg)
